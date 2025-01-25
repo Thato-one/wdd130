@@ -1,0 +1,12 @@
+:root{--primary-color:#071E22;
+       --secondary-color:#99621E;
+       --accent1-color : #5B9279;
+       --accent2-color:#FAF3DD;}
+body{background-color: #071E22;color: #FAF3DD;padding: 10px;}
+nav a{color:#071E22 ;text-size-adjust: 100px;}
+body{width: auto;border: #FAF3DD;}
+p{padding: 20px;}
+header{background-color: #99621E;}
+footer{background-color: #99621E;}
+main{max-width: 960px;}
+div{width: 100%; height: 100%; object-fit: cover;}
