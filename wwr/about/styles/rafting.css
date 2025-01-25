@@ -5,8 +5,11 @@
 body{background-color: #071E22;color: #FAF3DD;padding: 10px;}
 nav a{color:#071E22 ;text-size-adjust: 100px;}
 body{width: auto;border: #FAF3DD;}
-p{padding: 20px;}
+p{padding: 60px;}
 header{background-color: #99621E;}
 footer{background-color: #99621E;}
 main{max-width: 960px;}
 div{width: 100%; height: 100%; object-fit: cover;}
+h1{position:absolute; right: 700px;bottom: 300px;}
+article{position: absolute;bottom:150px ;width: 600px;color: #FAF3DD;}
+article img{position: relative;bottom:-250px; right: -900px;}
