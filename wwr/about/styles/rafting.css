@@ -3,7 +3,7 @@
        --accent1-color : #5B9279;
        --accent2-color:#FAF3DD;}
 body{background-color: #071E22;color: #FAF3DD;padding: 10px;}
-nav a{color:#071E22 ;text-size-adjust: 100px;}
+nav a{color:#071E22 ;}
 body{width: auto;border: #FAF3DD;}
 p{padding: 60px;}
 header{background-color: #99621E;}
