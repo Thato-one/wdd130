@@ -2,14 +2,22 @@
        --secondary-color:#99621E;
        --accent1-color : #5B9279;
        --accent2-color:#FAF3DD;}
-body{background-color: #071E22;color: #FAF3DD;padding: 10px;}
-nav a{color:#071E22 ;}
+body{background-color: #071E22;color: #FAF3DD;padding: 10px;max-width: 960px;}
+nav a{color:#071E22 ;background-color: #FAF3DD; }
 body{width: auto;border: #FAF3DD;}
 p{padding: 60px;}
-header{background-color: #99621E;}
+header{background-color: #99621E;display : grid ; grid-template-columns:20% 20% 20% 20% 20% ; grid-gap: 30px;padding:20px;display: grid;place-items:center; max-width: 1200px;}
+header img{	margin: 0 0.25rem 0 1rem;
+	width: 150px;
+	height: auto;background-color: #FAF3DD;}
 footer{background-color: #99621E;}
+footer nav{display: flex;justify-content: end;}
 main{max-width: 960px;}
 div{width: 100%; height: 100%; object-fit: cover;}
-h1{position:absolute; right: 700px;bottom: 300px;}
+h1{position:absolute; right: 850px;bottom: 350px;}
+h2{display: grid;place-items:center}
 article{position: absolute;bottom:150px ;width: 600px;color: #FAF3DD;}
-article img{position: relative;bottom:-250px; right: -900px;}
+article img{position: relative;bottom:-200px; right: -700px;}
+section h2{display : grid ; place-items: center;}
+
+
